@@ -1,0 +1,9 @@
+# Ignore Python bytecode files
+*.pyc
+.DS_Store
+
+# Ignore logging folder
+logging/
+
+# environment
+pdf_env/
